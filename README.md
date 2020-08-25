@@ -1,4 +1,4 @@
-`Projects Plan`:
+`Project Plan`:
 
 ✅ Demo App
 
