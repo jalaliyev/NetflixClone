@@ -1,6 +1,6 @@
 `Project Plan`:
 
-✅ Demo App
+✅ Create sample demo App in Photoshop or something like that (or in paper))
 
 ✅ Get TMDB API key
 
